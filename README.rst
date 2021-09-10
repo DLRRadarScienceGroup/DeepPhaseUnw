@@ -62,7 +62,7 @@ DeepPhaseUnw_y.hdf5: https://www.dropbox.com/s/2jdu758lhlvyipl/DeepPhaseUnw_y.hd
 
 Insert them in the corresponding folder: 
 
-* `DeepPhaseUnw/trained_model </DeepPhaseUnw/trained_model>`_: DeepPhaseUnw trained models.
+* `DeepPhaseUnw/trained_model </DeepPhaseUnw/trained_model>`_: 
 
 Demo steps (for Linux distribution)
 ````````````````````````````````````
