@@ -55,10 +55,13 @@ Folders
 * `DeepPhaseUnw/output </DeepPhaseUnw/output>`_: output files `unwrapped_phase.npy`.
 
 The trained models can be downloaded here:
+
 DeepPhaseUnw_x.hdf5: https://www.dropbox.com/s/quz8pwr6d8oinqx/DeepPhaseUnw_x.hdf5?dl=0
+
 DeepPhaseUnw_y.hdf5: https://www.dropbox.com/s/2jdu758lhlvyipl/DeepPhaseUnw_y.hdf5?dl=0
 
 Insert them in the corresponding folder: 
+
 * `DeepPhaseUnw/trained_model </DeepPhaseUnw/trained_model>`_: DeepPhaseUnw trained models.
 
 Demo steps (for Linux distribution)
